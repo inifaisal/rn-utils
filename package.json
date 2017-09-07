@@ -1,20 +1,16 @@
 {
-  "name": "rn-touch",
+  "name": "rn-utils",
   "version": "1.1.1",
-  "description": "Uses TouchableNativeFeedback where possible and fallback to alternatives where not.",
+  "description":
+    "Uses TouchableNativeFeedback where possible and fallback to alternatives where not.",
   "license": "BSD-3-Clause",
   "main": "PlatformTouchable.js",
   "scripts": {
     "lint": "eslint .",
     "prettier": "eslint . --fix"
   },
-  "files": [
-    "PlatformTouchable.js"
-  ],
-  "keywords": [
-    "react-native",
-    "react"
-  ],
+  "files": ["PlatformTouchable.js"],
+  "keywords": ["react-native", "react"],
   "author": "Brent Vatne <brent@expo.io>",
   "license": "MIT",
   "devDependencies": {
