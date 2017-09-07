@@ -4,7 +4,7 @@
   "description":
     "Uses TouchableNativeFeedback where possible and fallback to alternatives where not.",
   "license": "BSD-3-Clause",
-  "main": "PlatformTouchable.js",
+  "main": "index.js",
   "scripts": {
     "lint": "eslint .",
     "prettier": "eslint . --fix"
