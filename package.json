@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "prettier": "eslint . --fix"
   },
-  "files": ["PlatformTouchable.js"],
+  "files": ["index.js"],
   "keywords": ["react-native", "react"],
   "author": "Brent Vatne <brent@expo.io>",
   "license": "MIT",
